@@ -2,6 +2,7 @@ import { useState,useEffect } from "react"
 
 import {Loader,Card,FormField} from '../components'
 
+//start in creat post page 
 
 // the RenderCards function is for calling the props and reuse it intead of usine useState or creat function each time 
 
